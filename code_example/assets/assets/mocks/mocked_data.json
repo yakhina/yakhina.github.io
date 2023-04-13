@@ -1,0 +1,192 @@
+[
+	{
+		"preferred_color" : "#b9c4e0",
+		"personal_info": {
+			"name" : "Elena",
+			"surname" : "Yakhina",
+			"photo_asset_path" : "assets/images/profile_pic_default.jpg"
+		},
+		"contacts_info": [
+			{
+				"contacts_type" : "Mobile",
+				"contacts_url" : "tel: +393475175617",
+				"contacts_title" : "+39 347 517 56 17"
+			},
+			{
+				"contacts_type" : "Github",
+				"contacts_url" : "https://github.com/yakhina",
+				"contacts_title" : "@yakhina"
+			},
+			{
+				"contacts_type" : "Linkedin",
+				"contacts_url" : "https://www.linkedin.com/in/eyakhina",
+				"contacts_title" : "Elena Yakhina"
+			}
+		],
+		"experience": [
+			{
+				"company_name": "Holland&Barrett",
+				"role": "Flutter Lead Developer",
+				"start_date": 1591022968,
+				"end_date": 1677682168,
+				"achievements_lists": [
+					"Setting app the new Flutter mobile team for the Journeys project",
+					"Successful launch of Android, IOS and Web apps with a team of 2 cross-platform developers (all the apps was 1 cross-platform Flutter code base)",
+					"Participating in development of the CMS for the project and in partially in development of React Native app"
+				]
+			},
+			{
+				"company_name": "Software Development Agency",
+				"role": "Senior Flutter Developer",
+				"start_date": 1522594168,
+				"end_date": 1591022968,
+				"achievements_lists": [
+					"Successful launch of 3 applications in Flutter from scratch"
+				]
+			},
+			{
+				"company_name": "Ozon.ru",
+				"role": "Senior iOS Developer",
+				"start_date": 1491058168,
+				"end_date": 1522594168,
+				"achievements_lists": [
+          "Participated as a developer in supporting main iOS application",
+          "Created an internal library for tracking analytics across all company's applications",
+          "Created an iOS application for IoT project of the company, including support of BLE communcations with the devices"
+        ]
+			},
+			{
+				"company_name": "Lazada Group",
+				"role": "Senior iOS Developer",
+				"start_date": 1430491768,
+				"end_date": 1491058168,
+				"achievements_lists": [
+          "Participated as a developer in a redesign and refactoring process of the whole Lazada application",
+          "Participated in rewriting the app from ObjC to Swift",
+          "Created the fast and effective process of marketing and promotional updates in the app"
+        ]
+			},
+			{
+				"company_name": "Tvigle Media",
+				"role": "Senior iOS Developer",
+				"start_date": 1430491768,
+				"end_date": 1364827768,
+				"achievements_lists": [
+          "Supporting of main iOS application and new features",
+          "Launching separate iOS application for the Tvigle Music application",
+          "Created a custom video-streaming library with capabilities to show diferent types of advertisement"
+        ]
+			},
+			{
+				"company_name": "IBS",
+				"role": "Senior iOS Developer",
+				"start_date": 1328107768,
+				"end_date": 1364827768,
+				"achievements_lists": [
+          "The application for the client of the company"
+        ]
+			},
+			{
+				"company_name": "Various companies",
+				"role": "From Junior to Senior Frontend Developer",
+				"start_date": 1328107768,
+				"end_date": 1325429368,
+				"achievements_lists": [
+          "Worked on different projects with HTML, CSS, jQuery and other web-frontend tools"
+        ]
+			}
+		],
+		"skills": [
+			"Flutter/Dart",
+			"Swift",
+			"React Native",
+			"Typescript"
+		]
+	},
+	{
+			"preferred_color" : "#b9e0bf",
+			"personal_info": {
+				"name" : "One",
+				"surname" : "Good Developer",
+				"photo_asset_path" : "assets/images/profile_pic_01.jpg"
+			},
+			"contacts_info": [
+				{
+					"contacts_type" : "mobile",
+					"contacts_url" : "tel: +12345678901",
+					"contacts_title" : "+1 234 567 89 01"
+				},
+				{
+					"contacts_type" : "github",
+					"contacts_url" : "https://github.com/none",
+					"contacts_title" : "@none"
+				}
+			],
+			"experience": [
+				{
+					"company_name": "A Good Company 1",
+					"role": "Senior Flutter Developer",
+					"start_date": 1681166625,
+					"end_date": 1681166625,
+					"achievements_lists": [
+						"Supporting 3 applications for the client of the company",
+						"Implementing new features",
+						"Working in tight deadlines to achieve business goals"
+					]
+				}
+			],
+			"skills": [
+				"Flutter/Dart",
+				"Swift",
+				"React Native",
+				"Typescript"
+			]
+	},
+	{
+			"preferred_color" : "#e0d1b9",
+			"personal_info": {
+				"name" : "Another",
+				"surname" : "Good Developer",
+				"photo_asset_path" : "assets/images/profile_pic_02.jpg"
+			},
+			"contacts_info": [
+				{
+					"contacts_type" : "mobile",
+					"contacts_url" : "tel: +12345678901",
+					"contacts_title" : "+1 234 567 89 01"
+				},
+				{
+					"contacts_type" : "github",
+					"contacts_url" : "https://github.com/none",
+					"contacts_title" : "@none"
+				}
+			],
+			"experience": [
+				{
+					"company_name": "A Good company 1",
+					"role": "Flutter developer",
+					"start_date": 1681166625,
+					"end_date": 1681166625,
+					"achievements_lists": [
+						"Succefully launched an app for the company",
+						"Woking together with a team of designers and product-managers"
+					]
+				},
+				{
+					"company_name": "A Good company 2",
+					"role": "Flutter developer",
+					"start_date": 1681166625,
+					"end_date": 1681166625,
+					"achievements_lists": [
+						"Refactoring of the application for the client of the company",
+						"Implementing new features"
+					]
+				}
+			],
+			"skills": [
+				"Flutter/Dart",
+				"Kotlin"
+			]
+	}
+]
+
