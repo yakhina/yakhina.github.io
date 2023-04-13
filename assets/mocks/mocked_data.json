@@ -106,8 +106,8 @@
 	{
 			"preferred_color" : "#b9e0bf",
 			"personal_info": {
-				"name" : "Another",
-				"surname" : "Good Developer",
+				"name" : "Good",
+				"surname" : "Developer 1",
 				"photo_asset_path" : "https://yakhina.github.io/assets/images/profile_pic_01.jpg"
 			},
 			"contacts_info": [
@@ -154,8 +154,8 @@
 	{
 			"preferred_color" : "#e0d1b9",
 			"personal_info": {
-				"name" : "Another",
-				"surname" : "Good Developer",
+				"name" : "Good",
+				"surname" : "Developer 2",
 				"photo_asset_path" : "https://yakhina.github.io/assets/images/profile_pic_02.jpg"
 			},
 			"contacts_info": [
@@ -209,8 +209,8 @@
 	{
 			"preferred_color" : "#e0b9b9",
 			"personal_info": {
-				"name" : "Some Other",
-				"surname" : "Good Developer",
+				"name" : "Good",
+				"surname" : "Developer 3",
 				"photo_asset_path" : "https://yakhina.github.io/assets/images/profile_pic_02.jpg"
 			},
 			"contacts_info": [
