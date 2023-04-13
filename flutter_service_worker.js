@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "2e5e53704b6d02980ea8120351dcff9a",
-"index.html": "edd6426ec05fd8aa5c4c6c11c381cf56",
-"/": "edd6426ec05fd8aa5c4c6c11c381cf56",
-"main.dart.js": "9e9a20aa6256a4f0e9048ac9bb681bb8",
+"index.html": "df322566ffaee5791282349499d5a4dd",
+"/": "df322566ffaee5791282349499d5a4dd",
+"main.dart.js": "9b9ab5a8637962c75f68c0eba9135c1d",
 "flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -14,7 +14,7 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "63453dac90280d04c48ec1ba719e2d2f",
-"assets/mocks/mocked_data.json": "3136a697237ba11187a69934f402e62b",
+"assets/mocks/mocked_data.json": "4fc7766a91c8f17faf2e1b0e9a5704ed",
 "assets/images/profile_pic_01.jpg": "fb65e077c4f5d99f63da1da8877d219a",
 "assets/images/profile_pic_02.jpg": "d7c78b5c1d72081108f365d4e8bf7351",
 "assets/images/profile_pic_03.jpg": "ee1cebd5545d3a4ca2f498f8a03b8552",

@@ -67773,7 +67773,7 @@ s($,"aAW","any",()=>A.a([A.fe("^'(?:[^']|'')*'",!0),A.fe("^(?:G+|y+|M+|k+|S+|E+|
 s($,"aD0","aoz",()=>A.fe("''",!0))
 s($,"aBP","zW",()=>A.aev(t.K))
 s($,"aDQ","ap0",()=>!t.Cm.b(A.a([],t.Z)))
-s($,"aAB","adA",()=>{var q,p,o,n,m,l,k="Senior iOS developer",j=A.atu("Elena","https://yakhina.github.io/code_example/images/profile_pic_default.jpg","Yakhina"),i=A.a([A.aej("eyakhina","Linkedin","https://www.linkedin.com/in/eyakhina"),A.aej("yakhina","Github","https://github.com/yakhina"),A.aej("+39 347 517 56 17","Mobile","tel://+393475175617")],A.a2("w<dk>")),h=A.eJ(2020,6,1,0,0,0,0),g=A.eJ(2023,2,1,0,0,0,0),f=t.s
+s($,"aAB","adA",()=>{var q,p,o,n,m,l,k="Senior iOS developer",j=A.atu("Elena","https://yakhina.github.io/assets/images/profile_pic_default.jpg","Yakhina"),i=A.a([A.aej("eyakhina","Linkedin","https://www.linkedin.com/in/eyakhina"),A.aej("yakhina","Github","https://github.com/yakhina"),A.aej("+39 347 517 56 17","Mobile","tel://+393475175617")],A.a2("w<dk>")),h=A.eJ(2020,6,1,0,0,0,0),g=A.eJ(2023,2,1,0,0,0,0),f=t.s
 h=A.q9(A.a(["Setting app the new Flutter mobile team for the Journeys project","Successful launch of Android, IOS and Web apps with a team of 2 cross-platform developers (all the apps was 1 cross-platform Flutter code base)","Participating in development of the CMS for the project and in partially in development of React Native app"],f),"Holland&Barrett",g,"Flutter lead developer",h)
 g=A.eJ(2020,6,1,0,0,0,0)
 q=A.eJ(2018,4,1,0,0,0,0)
