@@ -106,7 +106,7 @@
 	{
 			"preferred_color" : "#b9e0bf",
 			"personal_info": {
-				"name" : "One",
+				"name" : "Another",
 				"surname" : "Good Developer",
 				"photo_asset_path" : "assets/images/profile_pic_01.jpg"
 			},
@@ -132,6 +132,15 @@
 						"Supporting 3 applications for the client of the company",
 						"Implementing new features",
 						"Working in tight deadlines to achieve business goals"
+					]
+				},
+				{
+					"company_name": "A Good Company 2",
+					"role": "Senior Flutter Developer",
+					"start_date": 1681166625,
+					"end_date": 1681166625,
+					"achievements_lists": [
+						"Some other achievments example"
 					]
 				}
 			],
@@ -164,7 +173,7 @@
 			"experience": [
 				{
 					"company_name": "A Good company 1",
-					"role": "Flutter developer",
+					"role": "Senior Flutter developer",
 					"start_date": 1681166625,
 					"end_date": 1681166625,
 					"achievements_lists": [
@@ -174,12 +183,76 @@
 				},
 				{
 					"company_name": "A Good company 2",
-					"role": "Flutter developer",
+					"role": "Senior Flutter developer",
 					"start_date": 1681166625,
 					"end_date": 1681166625,
 					"achievements_lists": [
 						"Refactoring of the application for the client of the company",
 						"Implementing new features"
+					]
+				},
+				{
+					"company_name": "A Good company 3",
+					"role": "Flutter developer",
+					"start_date": 1681166625,
+					"end_date": 1681166625,
+					"achievements_lists": [
+						"Some other achievments example"
+					]
+				}
+			],
+			"skills": [
+				"Flutter/Dart",
+				"Kotlin"
+			]
+	},
+	{
+			"preferred_color" : "#e0b9b9",
+			"personal_info": {
+				"name" : "Some Other",
+				"surname" : "Good Developer",
+				"photo_asset_path" : "https://yakhina.github.io/assets/images/profile_pic_02.jpg"
+			},
+			"contacts_info": [
+				{
+					"contacts_type" : "mobile",
+					"contacts_url" : "tel: +12345678901",
+					"contacts_title" : "+1 234 567 89 01"
+				},
+				{
+					"contacts_type" : "github",
+					"contacts_url" : "https://github.com/none",
+					"contacts_title" : "@none"
+				}
+			],
+			"experience": [
+				{
+					"company_name": "A Good company 1",
+					"role": "Senior Flutter developer",
+					"start_date": 1681166625,
+					"end_date": 1681166625,
+					"achievements_lists": [
+						"Succefully launched an app for the company",
+						"Woking together with a team of designers and product-managers"
+					]
+				},
+				{
+					"company_name": "A Good company 2",
+					"role": "Senior Flutter developer",
+					"start_date": 1681166625,
+					"end_date": 1681166625,
+					"achievements_lists": [
+						"Refactoring of the application for the client of the company",
+						"Implementing new features"
+					]
+				},
+				{
+					"company_name": "A Good company 3",
+					"role": "Flutter developer",
+					"start_date": 1681166625,
+					"end_date": 1681166625,
+					"achievements_lists": [
+						"Some other achievments example"
 					]
 				}
 			],
