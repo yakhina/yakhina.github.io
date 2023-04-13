@@ -8,11 +8,6 @@
 		},
 		"contacts_info": [
 			{
-				"contacts_type" : "Mobile",
-				"contacts_url" : "tel: +393475175617",
-				"contacts_title" : "+39 347 517 56 17"
-			},
-			{
 				"contacts_type" : "Github",
 				"contacts_url" : "https://github.com/yakhina",
 				"contacts_title" : "@yakhina"
@@ -21,6 +16,11 @@
 				"contacts_type" : "Linkedin",
 				"contacts_url" : "https://www.linkedin.com/in/eyakhina",
 				"contacts_title" : "Elena Yakhina"
+			},
+			{
+				"contacts_type" : "Mobile",
+				"contacts_url" : "tel: +393475175617",
+				"contacts_title" : "+39 347 517 56 17"
 			}
 		],
 		"experience": [
@@ -36,7 +36,7 @@
 				]
 			},
 			{
-				"company_name": "Software Development Agency",
+				"company_name": "Development Agency",
 				"role": "Senior Flutter Developer",
 				"start_date": 1522594168,
 				"end_date": 1591022968,
