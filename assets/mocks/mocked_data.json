@@ -108,7 +108,7 @@
 			"personal_info": {
 				"name" : "Another",
 				"surname" : "Good Developer",
-				"photo_asset_path" : "assets/images/profile_pic_01.jpg"
+				"photo_asset_path" : "https://yakhina.github.io/assets/images/profile_pic_01.jpg"
 			},
 			"contacts_info": [
 				{
