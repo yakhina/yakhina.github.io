@@ -108,23 +108,23 @@
 				"data" : [
 					{
 						"timestamp" : 1674487300,
-						"date_by_date" : 0.5
+						"data_by_date" : 0.5
 					},
 					{
 						"timestamp" : 1677165700,
-						"date_by_date" : 0.3
+						"data_by_date" : 0.3
 					},
 					{
 						"timestamp" : 1679584900,
-						"date_by_date" : 0.4
+						"data_by_date" : 0.4
 					},
 					{
 						"timestamp" : 1682263300,
-						"date_by_date" : 0.7
+						"data_by_date" : 0.7
 					},
 					{
 						"timestamp" : 1684855300,
-						"date_by_date" : 0.7
+						"data_by_date" : 0.7
 					}
 				]
 			}
@@ -183,23 +183,23 @@
 					"data" : [
 						{
 							"timestamp" : 1674487300,
-							"date_by_date" : 0.5
+							"data_by_date" : 0.5
 						},
 						{
 							"timestamp" : 1677165700,
-							"date_by_date" : 0.3
+							"data_by_date" : 0.3
 						},
 						{
 							"timestamp" : 1679584900,
-							"date_by_date" : 0.4
+							"data_by_date" : 0.4
 						},
 						{
 							"timestamp" : 1682263300,
-							"date_by_date" : 0.7
+							"data_by_date" : 0.7
 						},
 						{
 							"timestamp" : 1684855300,
-							"date_by_date" : 0.7
+							"data_by_date" : 0.7
 						}
 					]
 				}
@@ -265,23 +265,23 @@
 					"data" : [
 						{
 							"timestamp" : 1674487300,
-							"date_by_date" : 0.5
+							"data_by_date" : 0.5
 						},
 						{
 							"timestamp" : 1677165700,
-							"date_by_date" : 0.3
+							"data_by_date" : 0.3
 						},
 						{
 							"timestamp" : 1679584900,
-							"date_by_date" : 0.4
+							"data_by_date" : 0.4
 						},
 						{
 							"timestamp" : 1682263300,
-							"date_by_date" : 0.7
+							"data_by_date" : 0.7
 						},
 						{
 							"timestamp" : 1684855300,
-							"date_by_date" : 0.7
+							"data_by_date" : 0.7
 						}
 					]
 				}
@@ -347,23 +347,23 @@
 					"data" : [
 						{
 							"timestamp" : 1674487300,
-							"date_by_date" : 0.5
+							"data_by_date" : 0.5
 						},
 						{
 							"timestamp" : 1677165700,
-							"date_by_date" : 0.3
+							"data_by_date" : 0.3
 						},
 						{
 							"timestamp" : 1679584900,
-							"date_by_date" : 0.4
+							"data_by_date" : 0.4
 						},
 						{
 							"timestamp" : 1682263300,
-							"date_by_date" : 0.7
+							"data_by_date" : 0.7
 						},
 						{
 							"timestamp" : 1684855300,
-							"date_by_date" : 0.7
+							"data_by_date" : 0.7
 						}
 					]
 				}
