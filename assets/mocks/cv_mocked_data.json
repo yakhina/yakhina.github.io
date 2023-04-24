@@ -102,9 +102,9 @@
 			"React Native",
 			"Typescript"
 		],
-		"chartsSamples": [
+		"charts_samples": [
 			{
-				"type" : "line_chart",
+				"type" : "lineChart",
 				"data" : [
 					{
 						"timestamp" : 1674487300,
@@ -177,9 +177,9 @@
 				"React Native",
 				"Typescript"
 			],
-			"chartsSamples": [
+			"charts_samples": [
 				{
-					"type" : "line_chart",
+					"type" : "lineChart",
 					"data" : [
 						{
 							"timestamp" : 1674487300,
@@ -259,9 +259,9 @@
 				"Flutter/Dart",
 				"Kotlin"
 			],
-			"chartsSamples": [
+			"charts_samples": [
 				{
-					"type" : "line_chart",
+					"type" : "lineChart",
 					"data" : [
 						{
 							"timestamp" : 1674487300,
@@ -341,9 +341,9 @@
 				"Flutter/Dart",
 				"Kotlin"
 			],
-			"chartsSamples": [
+			"charts_samples": [
 				{
-					"type" : "line_chart",
+					"type" : "lineChart",
 					"data" : [
 						{
 							"timestamp" : 1674487300,
